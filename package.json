@@ -1,0 +1,16 @@
+{
+  "name": "neofuchsy-web",
+  "version": "1.0.0",
+  "description": "Personal blog website",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neofuchsy/neofuchsy-web.git"
+  },
+  "author": "neofuchsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neofuchsy/neofuchsy-web/issues"
+  },
+  "homepage": "https://fuchsy.neocities.org"
+}
